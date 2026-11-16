@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+.env
+.vscode/
+data/images/
+data/masks/
+floorplans.db

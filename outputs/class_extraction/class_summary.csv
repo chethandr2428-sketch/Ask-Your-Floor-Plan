@@ -1,0 +1,7 @@
+Class,Pixel_Count,Mask_File
+Rooms,861842,outputs\class_extraction\Rooms.png
+Walls,130452,outputs\class_extraction\Walls.png
+Windows,30348,outputs\class_extraction\Windows.png
+Parking_Doors,10950,outputs\class_extraction\Parking_Doors.png
+Room_Separations,4569,outputs\class_extraction\Room_Separations.png
+Doors,3973,outputs\class_extraction\Doors.png

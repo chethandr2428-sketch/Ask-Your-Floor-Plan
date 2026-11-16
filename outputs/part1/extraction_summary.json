@@ -1,0 +1,21 @@
+{
+  "total_images_found": 121,
+  "plans_processed": 121,
+  "missing_masks": [],
+  "components_by_class": {
+    "Rooms": 724,
+    "Walls_provisional": 1812,
+    "Windows_provisional": 824,
+    "Orange_class_unconfirmed": 808,
+    "Room_Separations": 136,
+    "Green_class_unconfirmed": 880
+  },
+  "database_file": "D:\\Ashian_FloorPlan_AI\\floorplans_part1.db",
+  "json_file": "D:\\Ashian_FloorPlan_AI\\outputs\\part1\\floorplans_part1.json",
+  "overlay_folder": "D:\\Ashian_FloorPlan_AI\\outputs\\part1\\overlays",
+  "limitations": [
+    "Connected components are candidate regions, not verified individual rooms or doors.",
+    "Areas are pixel counts, not real-world measurements.",
+    "Only the teal Rooms and red Room_Separations labels have stronger supporting evidence; other class labels are provisional."
+  ]
+}
