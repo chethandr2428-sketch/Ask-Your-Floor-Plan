@@ -58,8 +58,3 @@ python src/finish_part1.py
 - Add reliable room-name identification.
 - Develop an LLM-based question-answering assistant.
 - Improve extraction accuracy and evaluate results.
-
-## Author
-Chethan D R
-
-Electronics and Communication Engineering
